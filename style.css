@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: aqua;
+    height: 10vh;
+    width: 100vw;
+}
+.mbody{
+    background-color: aquamarine;
+    height: 10vh;
+    width: 100vw;
+}
+footer{
+    background-color: bisque;
+    height: 10vh;
+    width: 100vw;
+}
